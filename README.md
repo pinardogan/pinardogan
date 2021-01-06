@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**pinardogan/pinardogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a participant of **Data Science and Machine Learning Bootcamp** at [Veri Bilimi Okulu] (https://www.linkedin.com/in/veribilimiokulu/) . My goal is to become a good Data Scientist and currently doing my best to become an expert in areas such as:
 
-Here are some ideas to get you started:
+- 🔑 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib) 
+- 🧠 Data Science
+- 🌱 Big Data
+- 💻 Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Social Accounts are:
+
+- [Linkedin] (https://www.linkedin.com/in/pinardogan1/)
+- [Medium] (https://medium.com/@pinard)
+- [Kaggle] (https://www.kaggle.com/pinardogan)
+- [My piano videos on Youtube] (https://youtu.be/bpMMg0HWHvw)
+
