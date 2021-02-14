@@ -10,7 +10,7 @@ I am a participant of **Data Science and Machine Learning Bootcamp** at [Veri Bi
 My Social Accounts are:
 
 - [Linkedin](https://www.linkedin.com/in/pinardogan1/)
-- [Medium](https://medium.com/@pinard)
+- [Medium](https://pinard.medium.com/)
 - [Kaggle](https://www.kaggle.com/pinardogan)
 - [My piano videos on Youtube](https://youtu.be/bpMMg0HWHvw)
 
