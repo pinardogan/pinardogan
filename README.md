@@ -14,3 +14,4 @@ My Social Accounts are:
 - [Kaggle](https://www.kaggle.com/pinardogan)
 - [My piano videos on Youtube](https://youtu.be/bpMMg0HWHvw)
 
+![pinardogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinardogan&show_icons=true&theme=dracula)
