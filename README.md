@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Jr. Data Scientist at [Miuul](https://www.linkedin.com/company/miuul/). I am doing my Master's degree on [Big Data and Business Analytics](https://bigdatamaster.itu.edu.tr/) at Istanbul Technical University. I am currently working in areas such as:
+I am working as a Data Analytics & Digital Manager at [KPMG Turkey](https://home.kpmg/tr/tr/home.html). I am doing my Master's degree on [Big Data and Business Analytics](https://bigdatamaster.itu.edu.tr/) at Istanbul Technical University. I am currently working in areas such as:
 
 - 🔑 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib) 
 - 🧠 Deep Learning
